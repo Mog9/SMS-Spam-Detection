@@ -51,7 +51,7 @@ This project builds a machine learning model to classify SMS messages as **Spam*
 
 ---
 
-## 🧪 Example Usage
+## Example Usage
 
 **python**
 your_texts = ["you won a reward prize for free", "im good wbu?"]
